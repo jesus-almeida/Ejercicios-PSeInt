@@ -2,10 +2,9 @@
 // 				    aplicar un 10% de descuento y mostrar el pago final
 // ## Lenguaje Natural:
 //		Entrada: Definir pagoTotal y descuento como real
-//			Proceso: Inicializar variable. Pedir el total de la compra. Si supera los 100$ aplicar un 10% de descuento
-//					 sino dejarlo igual
-//		Salida: Imprimir pago total con descuento o sin el descuento
-
+//			Proceso: Inicializar variable. Pedir el total de la compra. Si supera los 100$
+//					 aplicar un 10% de descuento
+//		Salida: Imprimir pago total si se aplico el descuento
 // ## Pseudocodigo:
 Algoritmo descuentoPorCompras
 	Definir pagoTotal, descuento Como Real; // - : -
@@ -21,8 +20,5 @@ Algoritmo descuentoPorCompras
 		pagoTotal = (pagoTotal - descuento); // 114,3 : 12.7
 		Escribir "Se ha aplicado un Descuento del 10%!"; // 114,3 : 12.7
 		Escribir "Tu Pago Total es de: ", pagoTotal, "$"; // 114,3 : 12.7
-	SiNo
-		Escribir "No se ha ningun Descuento";
-		Escribir "Tu Pago Total es de: ", pagoTotal, "$";
 	FinSi // 114,3 : 12.7
 FinAlgoritmo
