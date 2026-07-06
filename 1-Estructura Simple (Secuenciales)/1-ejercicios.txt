@@ -1,0 +1,9 @@
+Calcular el área de un rectángulo: Pedir base y altura, multiplicar ambos valores y mostrar el resultado.
+
+Conversión de moneda: Solicitar una cantidad en dólares, multiplicarla por el tipo de cambio y mostrar el equivalente en euros.
+
+Promedio de notas: Ingresar tres calificaciones, sumarlas, dividirlas entre tres y desplegar el promedio.
+
+Cálculo de IVA: Leer el precio de un producto, multiplicar por 0.16 y mostrar el costo total con impuesto.
+
+Conversor de temperatura: Pedir los grados Celsius, aplicar la fórmula (C * 9 / 5) + 32 y mostrar el resultado en Fahrenheit.

@@ -1,0 +1,11 @@
+Estructura Condicional Simple y Doble (Si / Sino)
+
+Mayoría de edad: Solicitar la edad de una persona; si es mayor o igual a 18, mostrar "Es mayor de edad".
+
+Aprobado o reprobado: Ingresar la nota de un alumno; si es menor a 9.5, indicar "Reprobado", de lo contrario, "Aprobado".
+
+Número par o impar: Leer un número entero; si el residuo de dividirlo entre 2 es cero, mostrar "Par", si no, "Impar".
+
+Control de acceso: Pedir una contraseña; si coincide con la clave guardada, permitir el acceso, si no, denegarlo.
+
+Descuento por compras: Solicitar el total de la compra; si supera los $100, aplicar un 10% de descuento y mostrar el pago final
