@@ -17,8 +17,8 @@ Algoritmo numeroParImpar
 	numero = (numero % 2); // 1
 	
 	Si numero == 0 Entonces // 1
-		Escribir "Tu Numero es Par";
+		Escribir "Par";
 	SiNo // 1
-		Escribir "Tu Numero es Impar"; // 1
+		Escribir "Impar"; // 1
 	FinSi // 1
 FinAlgoritmo
