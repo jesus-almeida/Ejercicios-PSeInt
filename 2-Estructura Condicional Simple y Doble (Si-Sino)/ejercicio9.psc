@@ -12,7 +12,7 @@ Algoritmo controlDeAcceso
 	password = ""; // "" : -
 	passwordDB = "admin123"; // "" : "admin123"
 	
-	Escribir "Ingresa la Contraseña:"; // "" : "admin123"
+	Escribir "Ingresa una Contraseña:"; // "" : "admin123"
 	Leer password; // "admin123" : "admin123"
 	
 	Si password == passwordDB Entonces // "admin123" : "admin123"
