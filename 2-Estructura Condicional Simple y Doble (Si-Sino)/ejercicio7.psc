@@ -14,9 +14,9 @@ Algoritmo aprobadoReprobado
 	Escribir "Ingresa la Nota del Alumno:"; // 0
 	Leer nota; // 10
 	
-	Si nota >= 9.5 Entonces // 10
-		Escribir "El Alumno Aprobo."; // 10
+	Si nota < 9.5 Entonces // 10
+		Escribir "El Alumno Reprobo.";
 	SiNo // 10
-		Escribir "El Alumno Reprobo."; // 10
+		Escribir "El Alumno Aprobo."; // 10
 	FinSi // 10
 FinAlgoritmo
