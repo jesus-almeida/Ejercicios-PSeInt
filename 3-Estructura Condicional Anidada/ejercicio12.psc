@@ -28,7 +28,7 @@ Algoritmo calificacionesPorLetras
 				notaLetra = "F";
 			FinSi
 		FinSi
-	FinSi
+	FinSi // 100 : "A"
 	
 	Escribir "Tu Calificacion es letra: ", notaLetra; // 100 : "A"
 FinAlgoritmo
