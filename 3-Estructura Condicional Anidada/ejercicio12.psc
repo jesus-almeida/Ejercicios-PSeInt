@@ -6,7 +6,7 @@
 //		Salida: Imprimir letra de calificacion
 
 // ## Pseudocodigo:
-Algoritmo mayorDeTresNumeros
+Algoritmo calificacionesPorLetras
 	Definir notaNumerica Como Real; // -
 	Definir notaLetra Como Caracter; // - : -
 	
